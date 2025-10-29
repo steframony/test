@@ -80,3 +80,5 @@ Marina: "To science and good food."
 
 
 ![grafo](graph_einstein_cuoca.png)
+
+![grafo_argomentativo](argumentative_graph_einstein_cuoca.png)

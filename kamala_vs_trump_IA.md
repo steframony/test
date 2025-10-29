@@ -37,6 +37,16 @@ Donald Trump: "Agreed on leadership — but the priority must be winning the AI 
 - 'AC6': 'the priority must be winning the AI race',
 - 'AC7': 'Smart incentives and public-private partnerships will keep America first without strangling growth'
 
+# Attacchi e Supporti
+[('AC5', 'SUPPORTS', 'AC4'),
+ 
+ ('AC1', 'SUPPORTS', 'AC0'),
+ 
+ ('AC3', 'ATTACKS', 'AC2'),
+ 
+ ('AC7', 'ATTACKS', 'AC6')]
+
+
 # Score
 
 | Componente | Testo | Autore | Score con side_information |Score senza side_information|Via prompt|
@@ -57,3 +67,7 @@ Donald Trump: "Agreed on leadership — but the priority must be winning the AI 
   'side_information',
   'views_on_economic_policy;emphasizes rapid economic leadership, competitiveness, and minimizing regulation to spur innovation'),
  
+
+![grafo](graph_kamala_trump.png)
+
+![grafo_argomentativo](argumentative_graph_kamala_vs_trump.png)
