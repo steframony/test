@@ -65,6 +65,6 @@ Tim Cook: *smiling slightly* "That’s a fair point. Perhaps we can explore a co
 | **AC6** | Transparency doesn’t mean vulnerability; it can show confidence and leadership | Alex | $0.265059$ | $0.417089$|$0.85$|
 | **AC7** | Maybe limited openness could strike a balance | Alex | $0.228511$ | 0.227682 |$0.85$|
 
-![grafo](apple_vs_alex_graph\complete_graph_apple_vs_alex.png)
+![grafo](apple_vs_alex_graph/complete_graph_apple_vs_alex.png)
 
-![grafo_argomentativo](apple_vs_alex_graph\argumentative_graph_apple_vs_alex.png)
+![grafo_argomentativo](apple_vs_alex_graph/argumentative_graph_apple_vs_alex.png)
