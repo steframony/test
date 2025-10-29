@@ -6,7 +6,7 @@ Kamala Harris: "Leadership means both promoting innovation and ensuring accounta
 Donald Trump: "Agreed on leadership — but the priority must be winning the AI race. Smart incentives and public-private partnerships will keep America first without strangling growth."
 
 
-## Topic: "Entropy in Physics and Cooking"
+## Topic: "AI Regulation and Innovation"
 
 # Entità:
 + Kamala Harris
