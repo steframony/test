@@ -60,10 +60,12 @@ Tim Cook: *smiling slightly* "That’s a fair point. Perhaps we can explore a co
 | **AC1** | Sharing parts of our AI systems could build trust and attract top developers from the community | Alex | $0.580645$ |$0.636101$ |$0.85$|
 | **AC2** | once we open that door, we lose control | Tim Cook | $0.699784$ |$0.657350$|$0.95$|
 | **AC3** | Our competitors could use our work without sharing anything back | Tim Cook | $0.385431$ | $0.382702$|$0.95$|
-| **AC4** | Apple’s strength lies in how we integrate privacy, hardware, and software — that ecosystem needs protection | Tim Cook | $0.384059$ |$0.396236$ |$0.95$|
+| **AC4** | Apple’s strength lies in how we integrate privacy, hardware, and software — that ecosystem needs protection | Tim Cook | $0.384059$* |$0.396236$ |$0.95$|
 | **AC5** | innovation thrives on collaboration | Alex | $0.803919$ | $0.707597$ |$0.85$|
 | **AC6** | Transparency doesn’t mean vulnerability; it can show confidence and leadership | Alex | $0.265059$ | $0.417089$|$0.85$|
 | **AC7** | Maybe limited openness could strike a balance | Alex | $0.228511$ | 0.227682 |$0.85$|
+
+*E' un pò basso considerando il suo contesto.
 
 ![grafo](apple_vs_alex_graph/complete_graph_apple_vs_alex.png)
 
