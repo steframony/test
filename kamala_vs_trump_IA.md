@@ -68,6 +68,6 @@ Donald Trump: "Agreed on leadership — but the priority must be winning the AI 
   'views_on_economic_policy;emphasizes rapid economic leadership, competitiveness, and minimizing regulation to spur innovation'),
  
 
-![grafo](graph_kamala_trump.png)
+![grafo](kamala_vs_trump_IA_graph\graph_kamala_trump.png)
 
-![grafo_argomentativo](argumentative_graph_kamala_vs_trump.png)
+![grafo_argomentativo](kamala_vs_trump_IA_graph\argumentative_graph_kamala_vs_trump.png)

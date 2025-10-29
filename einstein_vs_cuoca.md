@@ -79,6 +79,6 @@ Marina: "To science and good food."
 | **AC11** | Theory helps us predict, practice refines it | Marina | $0.698206$ |$0.784846$ |$0.95$|
 
 
-![grafo](graph_einstein_cuoca.png)
+![grafo](einstein_vs_cuoca_graph\graph_einstein_cuoca.png)
 
-![grafo_argomentativo](argumentative_graph_einstein_cuoca.png)
+![grafo_argomentativo](einstein_vs_cuoca_graph\argumentative_graph_einstein_cuoca.png)
