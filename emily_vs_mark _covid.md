@@ -87,6 +87,6 @@ Emily: "Agreed — we must learn from this to create smarter, more flexible resp
 *Questo dovrebbe essere più alto considerando il contesto di Emily.
 
 ---
-![grafo](emily_vs_mark_covid_graph\complete_graph_emily_vs_mark_covid.png)
+![grafo](emily_vs_mark_covid_graph/complete_graph_emily_vs_mark_covid.png)
 
 ![grafo_argomentativo](emily_vs_mark_covid_graph/argumentative_graph_emily_mark_covid.png)
