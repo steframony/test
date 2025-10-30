@@ -76,13 +76,13 @@ Albert Einstein borns in German, is a theoretical physicist (later Swiss and Ame
 | **AC2** | The laboratory's work was terrible and necessary in that context | J. Robert Oppenheimer | $0.277108$ |$0.287561$|$0.85$|
 | **AC3** | necessity does not erase moral consequence | J. Robert Oppenheimer | $0.277201$ | $0.340523$ | $0.95$|
 | **AC4** | Necessity in war is argued by many, yet the scale of suffering changes the calculus | Albert Einstein | $0.640367$ |$0.660028$ |$0.95$|
-| **AC5** | We must create institutions to prevent this technology from becoming the norm of political life | Albert Einstein | $0.510878$ | $0.487309$ |$0.85$|
-| **AC6** | International oversight, transparency, disarmament — these are not idealistic fantasies but urgent requirements | Albert Einstein | $0.606027$ | $0.632373$| $0.85$|
-| **AC7** | the scientists could not in good conscience remain idle | J. Robert Oppenheimer | $0.560758$ | $0.597726$ |$0.85$|
-| **AC8** | deterrence may have prevented wars between great powers, but it also institutionalizes existential risk | J. Robert Oppenheimer | $0.652980$ | $0.674302$ |$0.95$|
+| **AC5** | We must create institutions to prevent this technology from becoming the norm of political life | Albert Einstein | $0.510878$ | $0.487309$ |$0.95$|
+| **AC6** | International oversight, transparency, disarmament — these are not idealistic fantasies but urgent requirements | Albert Einstein | $0.606027$ | $0.632373$| $0.95$|
+| **AC7** | the scientists could not in good conscience remain idle | J. Robert Oppenheimer | $0.560758$ | $0.597726$ |$0.95$|
+| **AC8** | deterrence may have prevented wars between great powers, but it also institutionalizes existential risk | J. Robert Oppenheimer | $0.652980$ | $0.674302$ |$0.85$|
 | **AC9** | our responsibility as scientists is clear: insist on political solutions, educate the public, and refuse to let secrecy and national pride dictate the future of humanity | Albert Einstein | $0.711628$ | $0.719889$ |$0.95$|
-| **AC10** | scientists must speak truth to power | J. Robert Oppenheimer | $0.805976$ | $0.792815$ |$0.95$|
-| **AC11** | policy requires wisdom beyond the laboratory | J. Robert Oppenheimer | $0.248122$ | $0.152874$ |$0.95$|
+| **AC10** | scientists must speak truth to power | J. Robert Oppenheimer | $0.805976$ | $0.792815$ |$0.85$|
+| **AC11** | policy requires wisdom beyond the laboratory | J. Robert Oppenheimer | $0.248122$ | $0.152874$ |$0.85$|
 | **AC12** | oIf we failed to guide statesmen toward restraint, we have failed as citizens of the world | J. Robert Oppenheimer | $0.535178$ | $0.563971$ |$0.95$|
 
 
